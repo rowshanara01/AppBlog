@@ -4,8 +4,7 @@ A fully type-safe application written entirely in **TypeScript**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178c6)
 ![Node.js](https://img.shields.io/badge/Node.js-npm-339933)
-
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
+/your-project-link.com)
 
 ## 📌 About
 
