@@ -27,7 +27,7 @@ Replace this paragraph with a short description of your project: what it does, w
 ## 📁 Project Structure
 
 ```
-project-name/
+project-name
 ├── src/
 │   ├── components/    # Reusable components
 │   ├── lib/           # Helper functions and utilities
